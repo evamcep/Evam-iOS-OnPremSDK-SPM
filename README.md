@@ -7,7 +7,6 @@ This SDK enables the integration of Evam's on-premise solution into your iOS pro
 ## 1. Prerequisites
 
 - **iOS 12.0** or later  
-- Your GitHub username must be authorized by Evam for private repository access
 
 ---
 
