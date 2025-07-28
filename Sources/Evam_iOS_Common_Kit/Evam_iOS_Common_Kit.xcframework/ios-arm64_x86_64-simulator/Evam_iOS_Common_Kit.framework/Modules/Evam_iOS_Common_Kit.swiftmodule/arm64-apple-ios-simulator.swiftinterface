@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.0 effective-5.10 (swiftlang-6.0.0.9.10 clang-1600.0.26.2)
-// swift-module-flags: -target arm64-apple-ios12.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name Evam_iOS_Common_Kit
-// swift-module-flags-ignorable: -no-verify-emitted-module-interface
+// swift-compiler-version: Apple Swift version 6.1.2 effective-5.10 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)
+// swift-module-flags: -target arm64-apple-ios12.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name Evam_iOS_Common_Kit
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -interface-compiler-version 6.1.2
 import CoreLocation
 @_exported import Evam_iOS_Common_Kit
 import Foundation
@@ -417,6 +417,8 @@ public class Evam {
   @available(*, deprecated, renamed: "initialize")
   public static func initialize(apiUri: Swift.String, listenerUri: Swift.String, authorization: Swift.String, localOrigin: Swift.String, actorId: Swift.String? = nil, applicationName: Swift.String = "", offlineCachingDisabled: Swift.Bool = false)
   public static func updateActorId(newActorId: Swift.String)
+  public static func getApplicationName() -> Swift.String
+  public static func getActorId() -> Swift.String
   public static func setPushToken(token: Swift.String)
   public static func setAuthorizationToken(token: Swift.String)
   public static func setApnsToken(deviceToken: Foundation.Data)
