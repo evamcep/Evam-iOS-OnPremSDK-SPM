@@ -24687,7 +24687,7 @@
       "kind": "StringLiteral",
       "offset": 373,
       "length": 7,
-      "value": "\"2.0.3\""
+      "value": "\"2.0.4\""
     },
     {
       "filePath": "\/Users\/sametyabalak\/Documents\/EvamWorkspace\/On-Premise\/iOS\/marketing-ios-sdk\/Evam_iOS_Common_Kit\/Evam_iOS_Common_Kit\/Helper\/Constants.swift",
@@ -27121,119 +27121,119 @@
     {
       "filePath": "\/Users\/sametyabalak\/Documents\/EvamWorkspace\/On-Premise\/iOS\/marketing-ios-sdk\/Evam_iOS_Common_Kit\/Evam_iOS_Common_Kit\/View\/PopUpWindow.swift",
       "kind": "FloatLiteral",
-      "offset": 44455,
+      "offset": 44513,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/sametyabalak\/Documents\/EvamWorkspace\/On-Premise\/iOS\/marketing-ios-sdk\/Evam_iOS_Common_Kit\/Evam_iOS_Common_Kit\/View\/PopUpWindow.swift",
       "kind": "StringLiteral",
-      "offset": 47475,
+      "offset": 47533,
       "length": 7,
       "value": "\"POPUP\""
     },
     {
       "filePath": "\/Users\/sametyabalak\/Documents\/EvamWorkspace\/On-Premise\/iOS\/marketing-ios-sdk\/Evam_iOS_Common_Kit\/Evam_iOS_Common_Kit\/View\/PopUpWindow.swift",
       "kind": "StringLiteral",
-      "offset": 47501,
+      "offset": 47559,
       "length": 8,
       "value": "\"SURVEY\""
     },
     {
       "filePath": "\/Users\/sametyabalak\/Documents\/EvamWorkspace\/On-Premise\/iOS\/marketing-ios-sdk\/Evam_iOS_Common_Kit\/Evam_iOS_Common_Kit\/View\/PopUpWindow.swift",
       "kind": "StringLiteral",
-      "offset": 47527,
+      "offset": 47585,
       "length": 7,
       "value": "\"EMOJI\""
     },
     {
       "filePath": "\/Users\/sametyabalak\/Documents\/EvamWorkspace\/On-Premise\/iOS\/marketing-ios-sdk\/Evam_iOS_Common_Kit\/Evam_iOS_Common_Kit\/View\/PopUpWindow.swift",
       "kind": "StringLiteral",
-      "offset": 47552,
+      "offset": 47610,
       "length": 7,
       "value": "\"SCORE\""
     },
     {
       "filePath": "\/Users\/sametyabalak\/Documents\/EvamWorkspace\/On-Premise\/iOS\/marketing-ios-sdk\/Evam_iOS_Common_Kit\/Evam_iOS_Common_Kit\/View\/PopUpWindow.swift",
       "kind": "StringLiteral",
-      "offset": 47581,
+      "offset": 47639,
       "length": 12,
       "value": "\"OPEN_ENDED\""
     },
     {
       "filePath": "\/Users\/sametyabalak\/Documents\/EvamWorkspace\/On-Premise\/iOS\/marketing-ios-sdk\/Evam_iOS_Common_Kit\/Evam_iOS_Common_Kit\/View\/PopUpWindow.swift",
       "kind": "FloatLiteral",
-      "offset": 48084,
+      "offset": 48142,
       "length": 4,
       "value": "50.0"
     },
     {
       "filePath": "\/Users\/sametyabalak\/Documents\/EvamWorkspace\/On-Premise\/iOS\/marketing-ios-sdk\/Evam_iOS_Common_Kit\/Evam_iOS_Common_Kit\/View\/PopUpWindow.swift",
       "kind": "FloatLiteral",
-      "offset": 48126,
+      "offset": 48184,
       "length": 4,
       "value": "50.0"
     },
     {
       "filePath": "\/Users\/sametyabalak\/Documents\/EvamWorkspace\/On-Premise\/iOS\/marketing-ios-sdk\/Evam_iOS_Common_Kit\/Evam_iOS_Common_Kit\/View\/PopUpWindow.swift",
       "kind": "FloatLiteral",
-      "offset": 48174,
+      "offset": 48232,
       "length": 4,
       "value": "50.0"
     },
     {
       "filePath": "\/Users\/sametyabalak\/Documents\/EvamWorkspace\/On-Premise\/iOS\/marketing-ios-sdk\/Evam_iOS_Common_Kit\/Evam_iOS_Common_Kit\/View\/PopUpWindow.swift",
       "kind": "FloatLiteral",
-      "offset": 48219,
+      "offset": 48277,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/sametyabalak\/Documents\/EvamWorkspace\/On-Premise\/iOS\/marketing-ios-sdk\/Evam_iOS_Common_Kit\/Evam_iOS_Common_Kit\/View\/PopUpWindow.swift",
       "kind": "FloatLiteral",
-      "offset": 48262,
+      "offset": 48320,
       "length": 4,
       "value": "50.0"
     },
     {
       "filePath": "\/Users\/sametyabalak\/Documents\/EvamWorkspace\/On-Premise\/iOS\/marketing-ios-sdk\/Evam_iOS_Common_Kit\/Evam_iOS_Common_Kit\/View\/PopUpWindow.swift",
       "kind": "FloatLiteral",
-      "offset": 48303,
+      "offset": 48361,
       "length": 5,
       "value": "200.0"
     },
     {
       "filePath": "\/Users\/sametyabalak\/Documents\/EvamWorkspace\/On-Premise\/iOS\/marketing-ios-sdk\/Evam_iOS_Common_Kit\/Evam_iOS_Common_Kit\/View\/PopUpWindow.swift",
       "kind": "Array",
-      "offset": 48415,
+      "offset": 48473,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/sametyabalak\/Documents\/EvamWorkspace\/On-Premise\/iOS\/marketing-ios-sdk\/Evam_iOS_Common_Kit\/Evam_iOS_Common_Kit\/View\/PopUpWindow.swift",
       "kind": "Array",
-      "offset": 48516,
+      "offset": 48574,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/sametyabalak\/Documents\/EvamWorkspace\/On-Premise\/iOS\/marketing-ios-sdk\/Evam_iOS_Common_Kit\/Evam_iOS_Common_Kit\/View\/PopUpWindow.swift",
       "kind": "Array",
-      "offset": 48546,
+      "offset": 48604,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/sametyabalak\/Documents\/EvamWorkspace\/On-Premise\/iOS\/marketing-ios-sdk\/Evam_iOS_Common_Kit\/Evam_iOS_Common_Kit\/View\/PopUpWindow.swift",
       "kind": "IntegerLiteral",
-      "offset": 48676,
+      "offset": 48734,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sametyabalak\/Documents\/EvamWorkspace\/On-Premise\/iOS\/marketing-ios-sdk\/Evam_iOS_Common_Kit\/Evam_iOS_Common_Kit\/View\/PopUpWindow.swift",
       "kind": "BooleanLiteral",
-      "offset": 48744,
+      "offset": 48802,
       "length": 5,
       "value": "false"
     },
